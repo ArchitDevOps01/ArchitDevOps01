@@ -41,9 +41,8 @@
 
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?logo=githubpages&logoColor=white)](https://your-portfolio-link.com)
-[![Mail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/archit-kumar-singh-857a052a3 ))
+[![Mail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:architsingh01.eng@gmail.com)
 
 ---
 
